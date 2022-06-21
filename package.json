@@ -1,0 +1,15 @@
+{
+  "name": "fake-api-json-server",
+  "version": "1.0.0",
+  "description": "simple json database to the host of your choice.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
